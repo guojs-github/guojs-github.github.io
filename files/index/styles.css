@@ -250,6 +250,10 @@
   font-size:18px;
   color:#666666;
 }
+#u7_img.mouseOver {
+}
+#u7.mouseOver {
+}
 #u7_text {
   border-width:0px;
   position:absolute;
@@ -311,6 +315,10 @@
   font-style:normal;
   font-size:18px;
   color:#666666;
+}
+#u9_img.mouseOver {
+}
+#u9.mouseOver {
 }
 #u9_text {
   border-width:0px;
